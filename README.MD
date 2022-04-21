@@ -1,2 +1,2 @@
-This is intended to become a protoype life insurance REST server based on Julia and POSTGRES and [bitemporalpostgres.jl](https://juliahub.com/ui/Packages/BitemporalPostgres/ZmypI/1.0.4), my julia api for bitemporal CRUD.
+This is (no pun) intended to become a protoype life insurance REST server based on Julia and POSTGRES and [bitemporalpostgres.jl](https://juliahub.com/ui/Packages/BitemporalPostgres/ZmypI/1.0.4), my julia api for bitemporal CRUD.
 It is planned to provide the backend for [a life insurance contract management prototype](https://github.com/michaelfliegner/BitemporalReactive.jl)
